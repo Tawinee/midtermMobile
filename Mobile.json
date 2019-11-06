@@ -1,0 +1,88 @@
+/* 1 */
+{
+    "_id" : ObjectId("5d9e9ba0c34cbe439c4a1ecb"),
+    "mobile_id" : "00001",
+    "mobile_brand" : "samsung",
+    "generation" : "A21",
+    "price" : "8000"
+}
+
+{
+    "_id" : ObjectId("5d9e9ba0c34cbe439c4a1ece"),
+    "mobile_id" : "00002",
+    "mobile_brand" : "samsung",
+    "generation" : "A212019",
+    "price" : "12000"
+}
+
+/* 3 */
+{
+    "_id" : ObjectId("5d9e9ba0c34cbe439c4a1ed1"),
+    "mobile_id" : "00003",
+    "mobile_brand" : "VIVO",
+    "generation" : "I2080",
+    "price" : "15000"
+}
+
+/* 4 */
+{
+    "_id" : ObjectId("5d9e9ba0c34cbe439c4a1ed4"),
+    "mobile_id" : "00004",
+    "mobile_brand" : "Apple",
+    "generation" : "11pro",
+    "price" : "35000"
+}
+
+/* 5 */
+{
+    "_id" : ObjectId("5d9e9ba0c34cbe439c4a1ed7"),
+    "mobile_id" : "00005",
+    "mobile_brand" : "samsung",
+    "generation" : "G8",
+    "price" : "15000"
+}
+
+/* 6 */
+{
+    "_id" : ObjectId("5d9e9ba0c34cbe439c4a1eda"),
+    "mobile_id" : "00006",
+    "mobile_brand" : "VIVO",
+    "generation" : "V15",
+    "price" : "13500"
+}
+
+/* 7 */
+{
+    "_id" : ObjectId("5d9e9ba0c34cbe439c4a1edd"),
+    "mobile_id" : "00007",
+    "mobile_brand" : "apple",
+    "generation" : "I8",
+    "price" : "19000"
+}
+
+/* 8 */
+{
+    "_id" : ObjectId("5d9e9ba0c34cbe439c4a1ee0"),
+    "mobile_id" : "00008",
+    "mobile_brand" : "VIVO",
+    "generation" : "V19",
+    "price" : "20000"
+}
+
+/* 9 */
+{
+    "_id" : ObjectId("5d9e9ba0c34cbe439c4a1ee3"),
+    "mobile_id" : "00009",
+    "mobile_brand" : "samsung",
+    "generation" : "A10",
+    "price" : "6000"
+}
+
+/* 10 */
+{
+    "_id" : ObjectId("5d9e9ba0c34cbe439c4a1ee6"),
+    "mobile_id" : "00010",
+    "mobile_brand" : "VIVO",
+    "generation" : "V11pro",
+    "price" : "15000"
+}

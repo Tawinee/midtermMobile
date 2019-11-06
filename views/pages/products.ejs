@@ -1,0 +1,34 @@
+<% include ../partials/header %>
+<div class="container">
+    <h1>Products</h1>
+    <table class="table">
+        <thead>
+            <tr>
+                <th>ID </th>
+                <th>Brand</th>
+                <th>Generation</th>
+                <th>Action</th>
+                <th><a name="" id="" class="btn btn-primary" href="/productadd" role="button">New Product</a></th>
+
+            </tr>
+        </thead>
+        <tbody>
+            <% product.forEach(function(pro){ %>
+            <tr>
+
+                <td><%= pro.mobile_id %></td>
+                <td><%= pro.mobile_brand%></td>
+                <td><%= pro.generation%></td>
+                <td scope="row">
+                    <a name="" id="" class="btn btn-success" href="/productId/<%= pro.mobile_id %>" role="button">View Detail</a>
+                    <a name="" id="" class="btn btn-warning" href="/productedit/<%= pro.mobile_id %>" role="button">Edit</a>
+                    <a name="" id="" class="btn btn-danger" href="/productdelete/<%= pro.mobile_id %>" role="button">Delete</a>
+                 </td>
+            </tr>
+            <% }); %>
+        </tbody>
+    </table>
+
+</div>
+
+<% include ../partials/footer %>

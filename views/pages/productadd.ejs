@@ -1,0 +1,31 @@
+<% include ../partials/header %>
+
+<div class="container">
+    <h1 class"dispaly-3"> Product for  <%= detail.mobile_id %> <%= detail.mobile_brand %></h1>
+    <form action="/addpro" method="POST">
+        <div class="form-group">
+            <label for="">ID</label>
+            <input type="text" value="<%= detail.mobile_id %>" class="form-control" name="id" id="id" aria-describedby="helpId" placeholder="">
+            <small id="helpId" class="form-text text-muted">Help text</small>
+        </div>
+        <div class="form-group">
+            <label for="">Brand</label>
+            <input type="text" value="<%= detail.mobile_brand %>" class="form-control" name="brand" id="brand" aria-describedby="helpId" placeholder="">
+            <small id="helpId" class="form-text text-muted">Help text</small>
+        </div>
+        <div class="form-group">
+            <label for="">Generation</label>
+            <input type="text" value="<%= detail.generation %>" class="form-control" name="generation" id="generation" aria-describedby="helpId" placeholder="">
+            <small id="helpId" class="form-text text-muted">Help text</small>
+        </div>
+        <div class="form-group">
+                <label for="">Price</label>
+                <input type="text" value="<%= detail.price %>" class="form-control" name="price" id="price" aria-describedby="helpId" placeholder="">
+                <small id="helpId" class="form-text text-muted">Help text</small>
+            </div>
+        <button type="submit" class="btn btn-primary">SAVE</button>
+        <a name="" id="" class="btn btn-primary" href="/products" role="button">Cancel</a>
+    </form>
+</div>
+
+<% include ../partials/footer %>

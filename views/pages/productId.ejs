@@ -1,0 +1,36 @@
+<% include ../partials/header %>
+<div class="container">
+    <h1><%= product.mobile_brand %></h1>
+    <div class="form-group">
+        <label for="">ID</label>
+        <input type="text" value=<%= product.mobile_id %> readonly class="form-control" name="" id=""
+            aria-describedby="helpId" placeholder="">
+        <small id="helpId" class="form-text text-muted">Help text</small>
+    </div>
+
+    <div class="form-group">
+        <label for="">Brand</label>
+        <input type="text" value=<%= product.mobile_brand %> readonly class="form-control" name="" id=""
+            aria-describedby="helpId" placeholder="">
+        <small id="helpId" class="form-text text-muted">Help text</small>
+    </div>
+
+    <div class="form-group">
+        <label for="">Generation</label>
+        <input type="text" value=<%= product.generation %> readonly class="form-control" name="" id=""
+            aria-describedby="helpId" placeholder="">
+        <small id="helpId" class="form-text text-muted">Help text</small>
+    </div>
+
+    <div class="form-group">
+            <label for="">Price</label>
+            <input type="text" value= <%= product.price %> readonly
+              class="form-control" name="" id="" aria-describedby="helpId" placeholder="">
+            <small id="helpId" class="form-text text-muted">Help text</small>
+          </div>
+
+              <a name="" id="" class="btn btn-primary" href="/products" role="button">Back to Product List</a>
+    
+</div>
+
+<% include ../partials/footer %>

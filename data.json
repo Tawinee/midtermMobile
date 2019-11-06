@@ -1,0 +1,186 @@
+{
+    "subject_id" : "140-390",
+    "subject_name" : "Full-Stack Web Development with JavaScript Frameworks",
+    "students" : [
+        {
+            "sid": "6030211003",
+            "name": "MR. WEERAPAT SUNJORN",
+            "major": "INFORMATION TECHNOLOGY"
+        },
+        {
+            "sid": "6030211005",
+            "name": "MR. JIRACHOT JANURAI",
+            "major": "INFORMATION TECHNOLOGY"
+        },
+        {
+            "sid": "6030211007",
+            "name": "MR. TAYCHID CHAVIWONG",
+            "major": "INFORMATION TECHNOLOGY"
+        },
+        {
+            "sid": "6030211010",
+            "name": "MISS KUNITA LANGTHAE",
+            "major": "INFORMATION TECHNOLOGY"
+        },
+        {
+            "sid": "6030211011",
+            "name": "MR. JIRAPAT WANKAM",
+            "major": "INFORMATION TECHNOLOGY"
+        },
+        {
+            "sid": "6030211013",
+            "name": "MISS NICHAPAT PROMRUKSA",
+            "major": "INFORMATION TECHNOLOGY"
+        },
+        {
+            "sid": "6030211014",
+            "name": "MR. TARIT PETNU",
+            "major": "INFORMATION TECHNOLOGY"
+        },
+        {
+            "sid": "6030211015",
+            "name": "MR. NIPON SONGMUANG",
+            "major": "INFORMATION TECHNOLOGY"
+        },
+        {
+            "sid": "6030211018",
+            "name": "MR. WORAPRUT PETKEAW",
+            "major": "INFORMATION TECHNOLOGY"
+        },
+        {
+            "sid": "6030211019",
+            "name": "MR. WATCHARAPONG THONGSONGSOM",
+            "major": "INFORMATION TECHNOLOGY"
+        },
+        {
+            "sid": "6030211020",
+            "name": "MR. SIRASIT NONTHIKAN",
+            "major": "INFORMATION TECHNOLOGY"
+        },
+        {
+            "sid": "6030211021",
+            "name": "MISS SITAMANEE TAWEETA",
+            "major": "INFORMATION TECHNOLOGY"
+        },
+        {
+            "sid": "6030211022",
+            "name": "MR. SURACHAI KUNGKAEW",
+            "major": "INFORMATION TECHNOLOGY"
+        },
+        {
+            "sid": "6030211023",
+            "name": "MISS SULAKKANA RODKUEN",
+            "major": "INFORMATION TECHNOLOGY"
+        },
+        {
+            "sid": "6030211028",
+            "name": "MR. TANUPAT SRINGAM",
+            "major": "INFORMATION TECHNOLOGY"
+        },
+        {
+            "sid": "6030211029",
+            "name": "MISS PORNKANOK VEERASING",
+            "major": "INFORMATION TECHNOLOGY"
+        },
+        {
+            "sid": "6030211030",
+            "name": "MISS TAWINEE SRIKARN",
+            "major": "INFORMATION TECHNOLOGY"
+        },
+        {
+            "sid": "6030211031",
+            "name": "MR. APISIT VIJIT",
+            "major": "INFORMATION TECHNOLOGY"
+        },
+        {
+            "sid": "6030211034",
+            "name": "MR. PATCHARA PETSORN",
+            "major": "INFORMATION TECHNOLOGY"
+        },
+        {
+            "sid": "6030211035",
+            "name": "MR. PASIN VIJITWONGSAKORN",
+            "major": "INFORMATION TECHNOLOGY"
+        },
+        {
+            "sid": "6030213004",
+            "name": "MR. NUTTAKORN TANSENG",
+            "major": "SOFTWARE ENGINEERING"
+        },
+        {
+            "sid": "6030213005",
+            "name": "MR. PISIT KAEWFUNG",
+            "major": "SOFTWARE ENGINEERING"
+        },
+        {
+            "sid": "6030213008",
+            "name": "MR. KRICH KOYDOON",
+            "major": "SOFTWARE ENGINEERING"
+        },
+        {
+            "sid": "6030213009",
+            "name": "MR. YODSAKORN PANSIT",
+            "major": "SOFTWARE ENGINEERING"
+        },
+        {
+            "sid": "6030213010",
+            "name": "MR. NANTIPAT SUWANVONG",
+            "major": "SOFTWARE ENGINEERING"
+        },
+        {
+            "sid": "6030213016",
+            "name": "MR. NATTAPONG ANUPAT",
+            "major": "SOFTWARE ENGINEERING"
+        },
+        {
+            "sid": "6030213020",
+            "name": "MISS JULALAK TAMMAPHET",
+            "major": "SOFTWARE ENGINEERING"
+        },
+        {
+            "sid": "6030213023",
+            "name": "MR. KARIN PIMLOY",
+            "major": "SOFTWARE ENGINEERING"
+        },
+        {
+            "sid": "6030213024",
+            "name": "MR. SOMPOT EIAMWORAKUL",
+            "major": "SOFTWARE ENGINEERING"
+        },
+        {
+            "sid": "6030213032",
+            "name": "MR. CHAYUT AUITAKUL",
+            "major": "SOFTWARE ENGINEERING"
+        },
+        {
+            "sid": "6030213033",
+            "name": "MR. FATHAN ALEE",
+            "major": "SOFTWARE ENGINEERING"
+        },
+        {
+            "sid": "6030213034",
+            "name": "MR. BURHAN TOHYOH",
+            "major": "SOFTWARE ENGINEERING"
+        },
+        {
+            "sid": "6030213035",
+            "name": "MR. RATCHANON PANKAMNERD",
+            "major": "SOFTWARE ENGINEERING"
+        },
+        {
+            "sid": "6030213041",
+            "name": "MR. WITTHAWAD TANOI",
+            "major": "SOFTWARE ENGINEERING"
+        },
+        {
+            "sid": "6030213045",
+            "name": "MISS PRAEWRUNG PANYANUKIT",
+            "major": "SOFTWARE ENGINEERING"
+        },
+        {
+            "sid": "6030213046",
+            "name": "MISS PICHAYANAN PROMMOON",
+            "major": "SOFTWARE ENGINEERING"
+        }
+    ]
+}
